@@ -11,7 +11,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 ➿- وراهه 😍👇
 
-git clone https://github.com/hadisaad971/Blackbear
+git clone https://github.com/hadisaad971/Blackbear.git
 
 🚼- وراهه😍👇
 
